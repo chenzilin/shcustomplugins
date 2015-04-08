@@ -1,0 +1,16 @@
+shtest/*~
+shtest/*.wap
+shtest/Makefile
+shtest/*.user*
+shtest/bin/*
+shtest/build/*
+
+shcustomplugins/*~
+shcustomplugins/*.wap
+shcustomplugins/Makefile
+shcustomplugins/Makefile.Debug
+shcustomplugins/Makefile.Release
+shcustomplugins/*.user*
+shcustomplugins/bin/*
+shcustomplugins/build/*
+shcustomplugins/release/*

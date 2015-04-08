@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/analogClock.ico</file>
+        <file>image/digitClock.png</file>
+        <file>image/chick.svg</file>
+        <file>image/defaultImage.svg</file>
+        <file>image/dog.svg</file>
+        <file>image/dragon.svg</file>
+        <file>image/horizontal_background.svg</file>
+        <file>image/horizontal_foreground.svg</file>
+        <file>image/horizontal_slider.svg</file>
+        <file>image/horse.svg</file>
+        <file>image/monkey.svg</file>
+        <file>image/mouse.svg</file>
+        <file>image/ox.svg</file>
+        <file>image/pig.svg</file>
+        <file>image/rabbit.svg</file>
+        <file>image/rateTable.ico</file>
+        <file>image/sheep.svg</file>
+        <file>image/slider.png</file>
+        <file>image/snake.svg</file>
+        <file>image/tiger.svg</file>
+        <file>image/vertical_background.svg</file>
+        <file>image/vertical_foreground.svg</file>
+        <file>image/vertical_slider.svg</file>
+        <file>image/yellowarrows.svg</file>
+        <file>image/greenarrows.svg</file>
+        <file>image/redarrows.svg</file>
+        <file>image/digitdate.png</file>
+        <file>image/arrows.ico</file>
+    </qresource>
+</RCC>
